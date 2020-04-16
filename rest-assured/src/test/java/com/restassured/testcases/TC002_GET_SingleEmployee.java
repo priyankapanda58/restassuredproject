@@ -20,7 +20,7 @@ public class TC002_GET_SingleEmployee extends TestBase {
 	@BeforeClass
 	public void getSingleEmployee() throws InterruptedException
 	{
-		logger.info("*******Started TC02-Get Single Employee details*******");
+		logger.info("*******Started TC02-Get Single Employee details repository*******");
 		
 		RestAssured.baseURI = "http://dummy.restapiexample.com/api/v1";
 		httpRequest = RestAssured.given();
