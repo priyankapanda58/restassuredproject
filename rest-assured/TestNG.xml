@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RestAssuredTestSuite" parallel="tests">
+  <listeners>
+  <listener class-name="com.restassured.utilities.Listeners" />
+  </listeners>
+  <test name="restAssuredTests">
+
+    <classes>
+      <class name="com.restassured.testcases.TC001_GET_AllEmployees"/>
+      <!-- class name="com.restassured.testcases.TC002_GET_SingleEmployee"-->
+      <class name="com.restassured.testcases.TC003_POST_AddEmployee"/>
+      <class name="com.restassured.testcases.TC004_PUT_EditSingleEmployee"/>
+      <!-- class name="com.restassured.testcases.TC005_DELETE_Employee"-->
+    </classes>
+  </test> 
+</suite> 

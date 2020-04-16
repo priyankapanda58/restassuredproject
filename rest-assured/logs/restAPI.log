@@ -1,0 +1,787 @@
+2020-04-15 23:07:49,279 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:07:54,814 INFO  - *******Checking Response Body*******
+2020-04-15 23:07:54,853 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:07:54,874 INFO  - *******Checking Response Time*******
+2020-04-15 23:07:54,875 INFO  - Response Time is:2996
+2020-04-15 23:07:54,875 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:07:54,888 INFO  - *******Checking status code*******
+2020-04-15 23:07:54,888 INFO  - Status Code is:400
+2020-04-15 23:07:54,892 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:10:37,771 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:10:42,074 INFO  - *******Checking Response Body*******
+2020-04-15 23:10:42,114 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:10:42,131 INFO  - *******Checking Response Time*******
+2020-04-15 23:10:42,131 INFO  - Response Time is:2323
+2020-04-15 23:10:42,131 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:10:42,138 INFO  - *******Checking status code*******
+2020-04-15 23:10:42,138 INFO  - Status Code is:400
+2020-04-15 23:10:42,151 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:13:00,135 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:13:06,096 INFO  - *******Checking Response Body*******
+2020-04-15 23:13:06,137 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:13:06,152 INFO  - *******Checking Response Time*******
+2020-04-15 23:13:06,152 INFO  - Response Time is:3861
+2020-04-15 23:13:06,153 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:13:06,158 INFO  - *******Checking status code*******
+2020-04-15 23:13:06,158 INFO  - Status Code is:400
+2020-04-15 23:13:06,164 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:13:49,392 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:13:53,667 INFO  - *******Checking Response Body*******
+2020-04-15 23:13:53,699 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:13:53,714 INFO  - *******Checking Response Time*******
+2020-04-15 23:13:53,715 INFO  - Response Time is:2396
+2020-04-15 23:13:53,715 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:13:53,720 INFO  - *******Checking status code*******
+2020-04-15 23:13:53,721 INFO  - Status Code is:400
+2020-04-15 23:13:53,724 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:16:27,278 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:17:59,339 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:18:03,932 INFO  - *******Checking Response Body*******
+2020-04-15 23:18:03,968 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:18:03,981 INFO  - *******Checking Response Time*******
+2020-04-15 23:18:03,981 INFO  - Response Time is:2541
+2020-04-15 23:18:03,982 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:18:03,988 INFO  - *******Checking status code*******
+2020-04-15 23:18:03,988 INFO  - Status Code is:400
+2020-04-15 23:18:03,993 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:19:41,586 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:19:45,873 INFO  - *******Checking Response Body*******
+2020-04-15 23:19:45,921 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:19:45,942 INFO  - *******Checking Response Time*******
+2020-04-15 23:19:45,942 INFO  - Response Time is:2257
+2020-04-15 23:19:45,943 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:19:45,952 INFO  - *******Checking status code*******
+2020-04-15 23:19:45,952 INFO  - Status Code is:400
+2020-04-15 23:19:45,959 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:24:00,859 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:24:08,608 INFO  - *******Checking Response Body*******
+2020-04-15 23:24:08,681 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:24:08,708 INFO  - *******Checking Response Time*******
+2020-04-15 23:24:08,710 INFO  - Response Time is:2713
+2020-04-15 23:24:08,711 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:24:08,721 INFO  - *******Checking status code*******
+2020-04-15 23:24:08,722 INFO  - Status Code is:400
+2020-04-15 23:24:08,726 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:24:48,561 INFO  - *******Started TC01-Get All Employees*******
+2020-04-15 23:24:51,965 INFO  - *******Checking content encoding Header*******
+2020-04-15 23:24:51,965 INFO  - content-encoding is:gzip
+2020-04-15 23:24:51,976 INFO  - *******Checking Content Length header*******
+2020-04-15 23:24:51,976 INFO  - Content length is:595
+2020-04-15 23:24:51,980 INFO  - *******Checking content type Header*******
+2020-04-15 23:24:51,981 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-15 23:24:51,985 INFO  - *******Checking Response Body*******
+2020-04-15 23:24:52,020 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-15 23:24:52,029 INFO  - *******Checking Response Time*******
+2020-04-15 23:24:52,030 INFO  - Response Time is:1442
+2020-04-15 23:24:52,043 INFO  - *******Checking server type Header*******
+2020-04-15 23:24:52,043 INFO  - server is:nginx/1.16.0
+2020-04-15 23:24:52,047 INFO  - *******Checking status code*******
+2020-04-15 23:24:52,047 INFO  - Status Code is:200
+2020-04-15 23:24:52,051 INFO  - *******Checking status Line*******
+2020-04-15 23:24:52,051 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-15 23:24:52,056 INFO  - *******Checking Cookies*******
+2020-04-15 23:24:52,057 INFO  - Cookie is:null
+2020-04-15 23:24:52,060 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-15 23:25:11,978 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-15 23:25:19,385 INFO  - *******Checking Response Body*******
+2020-04-15 23:25:19,466 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-15 23:25:19,497 INFO  - *******Checking Response Time*******
+2020-04-15 23:25:19,499 INFO  - Response Time is:2470
+2020-04-15 23:25:19,499 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:25:19,506 INFO  - *******Checking status code*******
+2020-04-15 23:25:19,506 INFO  - Status Code is:400
+2020-04-15 23:25:19,511 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-15 23:39:08,573 INFO  - *******Started TC03-Add new Employee*******
+2020-04-15 23:39:16,452 INFO  - *******Checking Response Body*******
+2020-04-15 23:39:16,476 INFO  - Response body is:{"status":"success","data":{"name":"PPlJy","salary":"98343","age":"51","id":65}}
+2020-04-15 23:39:16,499 INFO  - *******Checking Response Time*******
+2020-04-15 23:39:16,500 INFO  - Response Time is:2750
+2020-04-15 23:39:16,501 WARN  - response time is greater than 2000 milli seconds.
+2020-04-15 23:39:16,513 INFO  - *******Checking status code*******
+2020-04-15 23:39:16,514 INFO  - Status Code is:200
+2020-04-15 23:40:18,306 INFO  - *******Started TC03-Add new Employee*******
+2020-04-15 23:40:26,345 INFO  - *******Checking Response Body*******
+2020-04-15 23:40:26,389 INFO  - Response body is:{"status":"success","data":{"name":"PPRDy","salary":"32203","age":"91","id":64}}
+2020-04-15 23:40:26,407 INFO  - *******Checking Response Time*******
+2020-04-15 23:40:26,408 INFO  - Response Time is:2822
+2020-04-15 23:40:26,437 INFO  - *******Checking status code*******
+2020-04-15 23:40:26,438 INFO  - Status Code is:200
+2020-04-16 12:20:40,193 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 12:20:47,952 INFO  - *******Checking Response Body*******
+2020-04-16 12:20:47,970 INFO  - Response body is:<html>
+    <head><script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":0,"ad_count_adjustment":0,"ad_lazyload_version":0,"ad_location_ids":"","ad_transform_level":0,"adx_ad_count":0,"bidder_method":1,"bidder_version":7,"city":"Hyderabad","country":"IN","days_since_last_visit":-1,"display_ad_count":0,"domain_id":133674,"ds_adsize_opt_id":-1,"engaged_time_visit":0,"ezcache_level":1,"forensiq_score":-1,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"iab_category":"","is_from_recommended_pages":false,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"max_ads":0,"metro_code":0,"optimization_version":2,"page_ad_positions":"","page_view_count":0,"page_view_id":"a9df964a-2608-447a-47f3-8c5b70ec2034","position_selection_id":0,"postal_code":"500034","pv_event_count":0,"response_time_orig":735,"serverid":"52.66.247.226:6303","state":"TG","sub_page_ad_positions":"","t_epoch":1587019841,"template_id":0,"time_on_site_visit":0,"url":"http://dummy.restapiexample.com/api/v1/update/21","user_id":0,"word_count":0,"worst_bad_word_level":0};var _ezim_d = null;var _ezat = {"domain_id":133674,"form_factor_id":1,"framework_id":1,"pageview_date":"2020-04-16","pageview_id":"a9df964a-2608-447a-47f3-8c5b70ec2034","template_id":0,"url":"http://dummy.restapiexample.com/api/v1/update/21","visit_uuid":"cbff7f58-661a-4642-6eaa-8d745d8730bd"};</script><script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false' type="text/javascript">__ez.queue.addFile('banger.js', '/porpoiseant/banger.js?cb=188-3&bv=14&v=32&PageSpeed=off', true, [], true, false, false, true);</script>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck={};__ez.template={};__ez.template.isOrig=false;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+"_"+n);for(var o=e+"=",t=decodeURIComponent(document.cookie).split(";"),i=0;i<t.length;i++){for(var c=t[i];" "===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""},__ez.ck.setByCat=function(e,n){if(-1===e.indexOf("path=")&&(e+="; path=/"),"undefined"!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get("ezCMPCookieConsent",null);-1!==(o=o.substring(1,o.length)).indexOf(n+"=1")?document.cookie=e:""===o&&"undefined"!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,n=[],t=!1,r=[],o=[],s=!0,a={func:function(e,i,t,r,o,s,a){var l=this;this.name=e,this.funcName=i,this.parameters=null===t?null:t instanceof Array?t:[t],this.isBlock=r,this.blockedBy=o,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.isTimeDelay=!1,this.process=function(){d("... func = "+e),l.isInitialized=!0,l.isComplete=!0,d("... func.apply: "+e);var i=l.funcName.split("."),t=null;i.length>3||(t=3===i.length?window[i[0]][i[1]][i[2]]:2===i.length?window[i[0]][i[1]]:window[l.funcName]),null!=t&&t.apply(null,this.parameters),!0===l.deleteWhenComplete&&delete n[e],!0===l.isBlock&&(d("----- F'D: "+l.name),f())}},file:function(e,i,n,t,r,o,s){var a=this;this.name=e,this.path=i,this.async=r,this.defer=o,this.isBlock=n,this.blockedBy=t,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.isTimeDelay=!1,this.process=function(){a.isInitialized=!0,d("... file = "+e);var n=document.createElement("script");n.src=i,!0===r?n.async=!0:!0===o&&(n.defer=!0),n.onerror=function(){d("----- ERR'D: "+a.name),a.isError=!0,!0===a.isBlock&&f()},n.onreadystatechange=n.onload=function(){var e=n.readyState;d("----- F'D: "+a.name),e&&!/loaded|complete/.test(e)||(a.isComplete=!0,!0===a.isBlock&&f())},document.getElementsByTagName("head")[0].appendChild(n)}}};function l(e){!0!==c(e)&&0!=s&&e.process()}function c(e){if(!0===e.isTimeDelay&&!1===t)return d(e.name+" blocked = TIME DELAY!"),!0;if(e.blockedBy instanceof Array)for(var i=0;i<e.blockedBy.length;i++){var r=e.blockedBy[i];if(!1===n.hasOwnProperty(r))return d(e.name+" blocked = "+r),!0;if(!0===e.proceedIfError&&!0===n[r].isError)return!1;if(!1===n[r].isComplete)return d(e.name+" blocked = "+r),!0}return!1}function d(e){var i=window.location.href,n=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(n?n[1]:null)&&console.debug(e)}function f(){++e>200||(d("let's go"),u(r),u(o))}function u(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var n=e[i];!0===n.isComplete||c(n)||!0===n.isInitialized||!0===n.isError?!0===n.isError?d(n.name+": error"):!0===n.isComplete?d(n.name+": complete already"):!0===n.isInitialized&&d(n.name+": initialized already"):n.process()}}return window.addEventListener("load",function(){setTimeout(function(){t=!0,d("TDELAY -----"),f()},5e3)},!1),{addFile:function(e,i,t,s,c,d,f,u){var h=new a.file(e,i,t,s,c,d,f);!0===u?r[e]=h:o[e]=h,n[e]=h,l(h)},addDelayFile:function(e,i){var t=new a.file(e,i,!1,[],!1,!1,!0);t.isTimeDelay=!0,d(e+" ...  FILE! TDELAY"),o[e]=t,n[e]=t,l(t)},addFunc:function(e,t,s,c,d,f,u,h,m){!0===f&&(e=e+"_"+i++);var p=new a.func(e,t,s,c,d,u,h);!0===m?r[e]=p:o[e]=p,n[e]=p,l(p)},addDelayFunc:function(e,i,t){var r=new a.func(e,i,t,!1,[],!0,!0);r.isTimeDelay=!0,d(e+" ...  FUNCTION! TDELAY"),o[e]=r,n[e]=r,l(r)},items:n,processAll:f,setallowLoad:function(e){s=e}}}();__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};var __ezDotData=function(e,t){"string"!=typeof e&&2==e.length&&(t=e[1],e=e[0]),this.name=e,this.val=t};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(e){var t,r,n,o,i,d,a,_="",f=0;for(e=Base64._utf8_encode(e);f<e.length;)o=(t=e.charCodeAt(f++))>>2,i=(3&t)<<4|(r=e.charCodeAt(f++))>>4,d=(15&r)<<2|(n=e.charCodeAt(f++))>>6,a=63&n,isNaN(r)?d=a=64:isNaN(n)&&(a=64),_=_+this._keyStr.charAt(o)+this._keyStr.charAt(i)+this._keyStr.charAt(d)+this._keyStr.charAt(a);return _},decode:function(e){var t,r,n,o,i,d,a="",_=0;for(e=e.replace(/[^A-Za-z0-9+/=]/g,"");_<e.length;)t=this._keyStr.indexOf(e.charAt(_++))<<2|(o=this._keyStr.indexOf(e.charAt(_++)))>>4,r=(15&o)<<4|(i=this._keyStr.indexOf(e.charAt(_++)))>>2,n=(3&i)<<6|(d=this._keyStr.indexOf(e.charAt(_++))),a+=String.fromCharCode(t),64!=i&&(a+=String.fromCharCode(r)),64!=d&&(a+=String.fromCharCode(n));return a=Base64._utf8_decode(a)},_utf8_encode:function(e){e=e.replace(/rn/g,"n");for(var t="",r=0;r<e.length;r++){var n=e.charCodeAt(r);n<128?t+=String.fromCharCode(n):(127<n&&n<2048?t+=String.fromCharCode(n>>6|192):(t+=String.fromCharCode(n>>12|224),t+=String.fromCharCode(n>>6&63|128)),t+=String.fromCharCode(63&n|128))}return t},_utf8_decode:function(e){for(var t="",r=0,n=c1=c2=0;r<e.length;)(n=e.charCodeAt(r))<128?(t+=String.fromCharCode(n),r++):191<n&&n<224?(c2=e.charCodeAt(r+1),t+=String.fromCharCode((31&n)<<6|63&c2),r+=2):(c2=e.charCodeAt(r+1),c3=e.charCodeAt(r+2),t+=String.fromCharCode((15&n)<<12|(63&c2)<<6|63&c3),r+=3);return t}},__ez.dot.dataToStr=function(e){if(void 0===e)return[];try{for(var t in e)e[t].val=e[t].val+""}catch(e){}return e},__ez.dot.getCC=function(){var e="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(e=_ezaq.country),e},__ez.dot.getDID=function(){var e="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e=_ezaq.domain_id.toString()),e},__ez.dot.getEpoch=function(e){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(e=_ezaq.t_epoch),e},__ez.dot.getPageviewId=function(){var e="";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("page_view_id")&&(e=_ezaq.page_view_id),e},__ez.dot.getURL=function(e){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(e="//g.ezoic.net"+e),e},__ez.dot.isValid=function(e){for(var t=0;t<e.length;t++)if(e[t]instanceof __ezDotData==!1)return console.error("Invalid data. ",e[t]),!1;return!0},__ez.dot.isDefined=function(){for(var e=0;e<arguments.length;e++)if(null==arguments[e])return console.error("Argument not defined. ",arguments),!1;return!0},__ez.dot.isAnyDefined=function(){for(var e=!1,t=0;t<arguments.length;t++)null!=arguments[t]&&(e=!0);return 0==e&&console.error("isAnyDefined Arguments not defined. ",arguments),e},__ez.dot.getSlotIID=function(e){var t="0";try{var r=__ez.dot.getTargetingMap(e);if(-1===__ez.dot.getElementId(e).indexOf("div-gpt-ad"))return t;if(void 0!==r)for(var n in r)if(-1!==n.indexOf("iid")&&void 0!==r[n][0]){t=r[n][0];break}}catch(e){}return t},__ez.dot.getElementId=function(e){return void 0!==e.ElementId?e.ElementId:e.getSlotElementId()},__ez.dot.getAdUnitPath=function(e){return void 0!==e.AdUnitPath?e.AdUnitPath:e.getAdUnitPath()},__ez.dot.getSizes=function(e){return void 0!==e.Sizes?e.Sizes:e.getSizes()},__ez.dot.getTargeting=function(e,t){return void 0!==e.Targeting?e.Targeting[t]:e.getTargeting(t)[0]},__ez.dot.getTargetingMap=function(e){return void 0!==e.Targeting?e.Targeting:e.getTargetingMap()},__ez.dot.getAdUnit=function(e){return!0===__ez.template.isOrig?__ez.dot.getAdUnitPath(e).split("/").pop()+"|~ez~|"+__ez.dot.getElementId(e):__ez.dot.getElementId(e)};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>__ez.pel=function(){var u=[],i="/porpoiseant/army.gif";function t(e,i,t,_,d,o,n){if(__ez.dot.isDefined(e)&&0!=__ez.dot.isAnyDefined(e.getSlotElementId,e.ElementId)){var r=parseInt(__ez.dot.getTargeting(e,"ap")),a=__ez.dot.getSlotIID(e),s=__ez.dot.getAdUnit(e),p=parseInt(__ez.dot.getTargeting(e,"compid")),z=0,f=0,g=function(e){if("undefined"==typeof _ezim_d)return!1;var i=__ez.dot.getAdUnitPath(e).split("/").pop();if("object"==typeof _ezim_d&&_ezim_d.hasOwnProperty(i))return _ezim_d[i];for(var t in _ezim_d)if(t.split("/").pop()===i)return _ezim_d[t];return!1}(e);"object"==typeof g&&(void 0!==g.creative_id&&(f=g.creative_id),void 0!==g.line_item_id&&(z=g.line_item_id)),__ez.dot.isDefined(a,s)&&__ez.dot.isValid(i)&&u.push({type:"impression",impression_id:a,domain_id:__ez.dot.getDID(),unit:s,t_epoch:__ez.dot.getEpoch(0),revenue:t,est_revenue:_,ad_position:r,ad_size:"",bid_floor_filled:d,bid_floor_prev:o,stat_source_id:n,country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:p,line_item_id:z,creative_id:f,data:__ez.dot.dataToStr(i)})}}function _(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(u)&&0<u.length){var e=__ez.dot.getURL(i)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(u));void 0!==window.isAmp&&isAmp&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e+="&visit_uuid="+_ezaq.visit_uuid),(new Image).src=e}u=[]}}return{Add:t,AddAndFire:function(e,i){t(e,i,0,0,0,0,0),_()},AddById:function(e,i){var t=e.split("/");if(__ez.dot.isDefined(e)&&3===t.length&&__ez.dot.isValid(i)){var _=t[0],d=t[2];u.push({type:"impression",impression_id:d,domain_id:__ez.dot.getDID(),unit:_,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(i)})}},Fire:_,GetPixels:function(){return u}}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&!0===ezJsu||"undefined"!=typeof _ez_sa&&!0===_ez_sa||void 0!==window.isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(e,i){this.name=e,this.val=i};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(e,i){this.AddImpPixel(e,i,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(e,i){this.AddPVPixel(e,i),this.FirePixels()},AddImpPixel:function(e,i,t,n,o,a,d){if(0!=__ez.dot.isDefined(e)&&0!=__ez.dot.isAnyDefined(e.getSlotElementId,e.ElementId)){var s=parseInt(__ez.dot.getTargeting(e,"ap")),r=__ez.dot.getSizes(e)[0],_=r.l.toString()+"x"+r.j.toString(),p="0",l="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(p=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(l=_ezaq.country);var h=__ez.dot.getSlotIID(e),c=__ez.dot.getSlotElementId(e);__ez.dot.isDefined(h,c)&&this.validateData(i)&&(i=this.convertDataToStr(i),this.pixels.push({type:"impression",impression_id:h,domain_id:p,unit:c,t_epoch:this.tEpoch,revenue:t,est_revenue:n,ad_position:s,ad_size:_,bid_floor_filled:o,bid_floor_prev:a,stat_source_id:d,country_code:l,data:i}))}},AddImpPixelById:function(e,i){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString());var n=e.split("/");if(__ez.dot.isDefined(e)&&3===n.length&&this.validateData(i)){var o=n[0],a=n[2];i=this.convertDataToStr(i),this.pixels.push({type:"impression",impression_id:a,domain_id:t,unit:o,t_epoch:this.tEpoch,data:i})}},AddPVPixel:function(e,i){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString()),__ez.dot.isDefined(e)&&this.validateData(i)&&(i=this.convertDataToStr(i),this.pixels.push({type:"pageview",pageview_id:e,domain_id:t,t_epoch:this.tEpoch,data:i}))},FirePixels:function(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(this.pixels)&&0<this.pixels.length&&((new Image).src=this.pixelUrl+"?orig="+(!0===__ez.template.isOrig?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(e,i){return new EzoicPixelData(e,i)},convertDataToStr:function(e){if(void 0===e)return[];try{for(var i in e)e[i].val=e[i].val+""}catch(e){}return e},validateData:function(e){for(var i=0;i<e.length;i++)if(e[i]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",e[i]),!1;return!0}};</script>
+<script data-ezscrex="false" data-cfasync="false">(function(){if("function"===typeof window.CustomEvent)return!1;window.CustomEvent=function(c,a){a=a||{bubbles:!1,cancelable:!1,detail:null};var b=document.createEvent("CustomEvent");b.initCustomEvent(c,a.bubbles,a.cancelable,a.detail);return b}})();</script><script data-ezscrex="false" data-cfasync="false">window.requestIdleCallback=window.requestIdleCallback||function(b){var a=Date.now();return setTimeout(function(){b({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-a))}})},1)};
+	(function(){function b(a,b){for(var c=[],f=0;f<a;f++){for(var d=f*b*Math.random(),l=!0,k=2;k<=Math.sqrt(d);++k)if(0===d%k){l=!1;break}l&&c.push(d)}return c}function a(){var a=this;a.age=0;setInterval(function(){a.age++},1E3)}if("1"==window.ihajsdjhsadhjk){var d=new a;b(6,d);window.ihajsdjhsadhjk=null;window.doezifk="1"}"1"==window.doezifk&&(b(50,1E9),pointlessComputationsButton.disabled=!1,window.doezifk=null,window.ihajsdjhsadhjk="1");if("function"===typeof window.EzoIvent)return!1;window.EzoIvent=
+	function(a,b){b=b||{bubbles:!1,cancelable:!1,detail:null};var c=document.createEvent("EzoIvent");c.initCustomEvent(a,b.bubbles,b.cancelable,b.detail);return c}})();__ez.nap=[];__ez.nap[0]=0;__ez.nap[1]=45;__ez.nap[2]=[];__ez.nap[3]=0;__ez.nap[4]=1;__ez.nap[5]=[];
+	var ezocfol=function(b){b=_findNetworkQuietPeriods(__ez.nap[2],window.ezodomstart,b);b=_findOverlappingQuietPeriods(b,__ez.nap[5]);if("undefined"!=typeof b){var a=0,d=Math.max(b[b.length-1].cpuQuietPeriod.end,b[b.length-1].cpuQuietPeriod.end);b.forEach(function(b){a+=Math.floor(b.quietPeriodLength/55)});(a>=__ez.sswp&&1<a||10<=a||d<Date.now()-5E3)&&clearInterval(window.ezoIint);__ez.nap[0]=a;window.dispatchEvent(new CustomEvent("EzoIvent",{detail:[__ez.nap[0],50]}))}};
+	_findOverlappingQuietPeriods=function(b,a){var d=a.slice(),c=b.slice();d.shift();c.shift();var f=[];d.forEach(function(e){c.forEach(function(c){e.start>=c.start?c.end>=e.start+55&&f.push({cpuQuietPeriod:e,networkQuietPeriod:c,cpuQuietPeriods:a,networkQuietPeriods:b,quietPeriodLength:Math.min(e.duration,c.duration)}):e.end>=c.start+55&&f.push({cpuQuietPeriod:e,networkQuietPeriod:c,cpuQuietPeriods:a,networkQuietPeriods:b,quietPeriodLength:Math.min(e.duration,c.duration)})})});if(0<f.length)return f};
+	var netStartTime=0;_findNetworkQuietPeriods=function(b,a,d){0==netStartTime&&(netStartTime=a-1);a=[];for(var c in b){var f=b[c];0>f.end&&(f.end=99);a.push({time:f.start,isStart:!0});0<f.end&&a.push({time:f.end,isStart:!1})}a.sort(function(a,b){return a.time-b.time});var e=0,g=netStartTime,h=[];a.forEach(function(a){a.isStart?(e===__ez.nap[4]&&h.push({start:g,end:a.time,duration:a.time-g}),e++):(e--,e===__ez.nap[4]&&(g=a.time))});e<=__ez.nap[4]&&h.push({start:g,end:d,duration:d-g});return h};
+	function hashCode(b){for(var a,d=0;d<b.length;d++)a=Math.imul(31,a)+b.charCodeAt(d)|0;return a}
+	var ezogetrqbykey=function(b){for(var a=0,d=__ez.nap[2].length;a<d;a++)if(__ez.nap[2][a].id==b)return a},ezorqs=function(b,a){indexKey=window.ezogetrqbykey(a);"undefined"==typeof indexKey&&(__ez.nap[2].push({start:Date.now(),end:-1,id:a}),__ez.nap[3]++,setTimeout(function(){window.ezorqe(b,a)},2E3))},ezorqe=function(b,a,d){indexKey=window.ezogetrqbykey(a);"undefined"!=typeof indexKey&&-1==__ez.nap[2][indexKey].end?(__ez.nap[2][indexKey].end=Date.now(),__ez.nap[3]--):1==d&&__ez.nap[3]--};
+	(function(){if("undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(19)){var b=window.setInterval;window.setInterval=function(a,d){var c=d;90>c&&56!=c&&(c=90);if(3>arguments.length)return b(a,c);var f=Array.prototype.slice.call(arguments).slice(2);return b(a.bind(window,f),c)}}})();
+	(function(){if("undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(19)){var b=window.setTimeout;window.setTimeout=function(a,d){var c=d;90>c&&(c=90);if(3>arguments.length)return b(a,c);var f=this,e=Array.prototype.slice.call(arguments,2);return b(a instanceof Function?function(){a.apply(f,e)}:a,c)}}})();
+	(function(){var b=window.XMLHttpRequest,a=function(){var a=new b;"undefined"!=typeof this.open?a.open=this.open:this.open=b.open;"undefined"!=typeof this.abort?a.abort=this.abort:this.open=b.open;"undefined"!=typeof this.getAllResponseHeaders?a.getAllResponseHeaders=this.getAllResponseHeaders:this.getAllResponseHeaders=b.getAllResponseHeaders;"undefined"!=typeof this.getResponseHeader?a.getResponseHeader=this.getResponseHeader:this.getResponseHeader=b.getResponseHeader;"undefined"!=typeof this.overrideMimeType?
+	a.overrideMimeType=this.overrideMimeType:this.overrideMimeType=b.overrideMimeType;"undefined"!=typeof this.setRequestHeader?a.setRequestHeader=this.setRequestHeader:this.setRequestHeader=b.setRequestHeader;var d=Math.random();a.addEventListener("loadstart",function(a){window.ezorqs(a,d)});a.addEventListener("loadend",function(a){window.ezorqe(a,d)});a.addEventListener("error",function(a){window.ezorqe(a,d)});a.addEventListener("abort",function(a){window.ezorqe(a,d)});return a};a.prototype=b.prototype;
+	for(var d in b)a[d]=b[d];window.XMLHttpRequest=a})();window.ezoFetchConst=window.fetch;window.fetch=function(b){var a=arguments,d=this,c=Math.random();window.ezorqs(b,c);return new Promise(function(b,e){window.ezoFetchConst.apply(d,a).then(function(a){window.ezorqe(a,c);b(a)})["catch"](function(a){window.ezorqe(a,c);e(a)})})};var _fEzDt=function(){return Date.now()};
+	document.addEventListener("DOMContentLoaded",function(){window.ezodomstart=Date.now();if("requestIdleCallback"in window){var b=0;window.ezoIint=setInterval(function(){window.requestIdleCallback(function(a){var d=Date.now();a=a.timeRemaining();var c=_fEzDt();a<c&&(a>__ez.nap[1]?0==b&&(b=d):0!=b&&(a={start:b,end:d-(50-a)},a.duration=a.end-a.start,55<=a.duration&&(__ez.nap[5].push(a),window.ezocfol(d)),b=0))})},56)}else window.dispatchEvent(new CustomEvent("EzoIvent",{detail:[-1,-1]})),clearInterval(window.ezoIint)});
+	"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&(window.addEventListener("load",function(){window.__ez__w_load=!0}),window.addEventListener("DOMContentLoaded",function(){window.__ez__w_dom=!0}),"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&function(){if(Element.prototype.addEventListener){window.__ez__ael=window.addEventListener;window.__ez__ael__proto=window.__ez__ael.prototype;var b=function(){"domcontentloaded"==arguments[0].toLowerCase()?arguments[0]=
+	"EzoicDOMContentLoaded":"load"==arguments[0].toLowerCase()&&(arguments[0]="Ezoicload");window.__ez__ael.apply(window,arguments)};window.__ez__ael.prototype=window.__ez__ael__proto;window.addEventListener=b;document.addEventListener=b}}());window.ezorqs=ezorqs;window.ezorqe=ezorqe;window.ezocfol=ezocfol;window.ezogetrqbykey=ezogetrqbykey;__ez.nap=__ez.nap;</script>
+        <title>Method not allowed</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+        </style>
+    
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-131129777-14";</script>
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-131129777-14']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'restapiexample.com']);
+_gaq.push(['f._setDomainName', 'restapiexample.com']);
+_gaq.push(['e._setCustomVar',1,'template','pub_site_noads',3]);
+_gaq.push(['e._setCustomVar',2,'t','147',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod84-c',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','pub_site_noads',3]);
+_gaq.push(['f._setCustomVar',2,'domain','restapiexample.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "1";</script><base href="http://dummy.restapiexample.com/api/v1/update/21"><script type='text/javascript'>
+var ezoTemplate = 'pub_site_noads';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script><!-- START EZHEAD -->
+<script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 133674;
+var ezdomain = 'restapiexample.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false' type='text/javascript' style='display:none'>
+__ez.queue.addFile('__ezf_ezosuigeneris', '//g.ezoic.net/ezosuigeneris.js', true, [], true, false, false, false);
+var __ez_ezosuigenerisEvt = function() { if(typeof(ezosuigeneris) != 'undefined'){__ez.bit.AddAndFire(_ezaq['page_view_id'], [(new __ezDotData('universal_user_id', ezosuigeneris))]); }};
+__ez.queue.addFunc('__ez_ezosuigenerisEvt', '__ez_ezosuigenerisEvt', null, false, ['__ezf_ezosuigeneris'], false, false, false, false);</script><script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false' type='text/javascript' style='display:none'>__ez.queue.addFile('__ezf_ezosuigenerisc', '//g.ezoic.net/ezosuigenerisc.js?nogen=1', true, [], true, false, false, false);</script>
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_133674=" + new Date().getTime() + "|a9df964a-2608-447a-47f3-8c5b70ec2034|false; " + expires, 3);
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl;
+        }
+    }
+}
+attach_ezolpl();
+</script></head>
+    <body>
+        <h1>Method not allowed</h1>
+        <p>Method not allowed. Must be one of: <strong>PUT</strong></p>
+    <script type="text/javascript" style='display:none;'>
+var __ez_dims = (function() {
+	var setCookie = function( name, content, expiry ) {
+		return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+	};
+	var ffid = 1;
+	var oh = window.screen.height;
+	var ow = window.screen.width;
+	var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+	var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+	var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+	var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+	setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+	setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+})();
+</script><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=188-3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=188-3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script></body>
+</html>
+2020-04-16 12:20:47,990 INFO  - *******Checking Response Time*******
+2020-04-16 12:20:47,991 INFO  - Response Time is:2684
+2020-04-16 12:20:47,997 INFO  - *******Checking status code*******
+2020-04-16 12:20:47,998 INFO  - Status Code is:405
+2020-04-16 12:20:48,022 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 12:21:43,605 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 12:21:50,952 INFO  - *******Checking Response Body*******
+2020-04-16 12:21:50,973 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 12:21:50,991 INFO  - *******Checking Response Time*******
+2020-04-16 12:21:50,993 INFO  - Response Time is:2339
+2020-04-16 12:21:51,007 INFO  - *******Checking status code*******
+2020-04-16 12:21:51,007 INFO  - Status Code is:200
+2020-04-16 12:21:51,012 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 12:39:31,349 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 12:39:38,877 INFO  - Employee to be deleted:null
+2020-04-16 12:39:42,878 INFO  - *******Checking Response Body*******
+2020-04-16 12:39:42,879 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 12:39:42,896 INFO  - *******Checking Response Time*******
+2020-04-16 12:39:42,896 INFO  - Response Time is:906
+2020-04-16 12:39:42,903 INFO  - *******Checking status code*******
+2020-04-16 12:39:42,904 INFO  - Status Code is:200
+2020-04-16 12:39:42,910 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 12:40:04,353 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 12:40:10,894 INFO  - Employee to be deleted:1
+2020-04-16 12:40:14,824 INFO  - *******Checking Response Body*******
+2020-04-16 12:40:14,825 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 12:40:14,850 INFO  - *******Checking Response Time*******
+2020-04-16 12:40:14,851 INFO  - Response Time is:881
+2020-04-16 12:40:14,856 INFO  - *******Checking status code*******
+2020-04-16 12:40:14,856 INFO  - Status Code is:200
+2020-04-16 12:40:14,862 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 12:40:32,524 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 12:40:38,823 INFO  - Employee to be deleted:5
+2020-04-16 12:40:42,747 INFO  - *******Checking Response Body*******
+2020-04-16 12:40:42,749 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 12:40:42,769 INFO  - *******Checking Response Time*******
+2020-04-16 12:40:42,769 INFO  - Response Time is:871
+2020-04-16 12:40:42,775 INFO  - *******Checking status code*******
+2020-04-16 12:40:42,775 INFO  - Status Code is:200
+2020-04-16 12:40:42,778 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 12:40:58,871 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 12:41:06,928 INFO  - Employee to be deleted:21
+2020-04-16 12:41:11,144 INFO  - *******Checking Response Body*******
+2020-04-16 12:41:11,145 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 12:41:11,165 INFO  - *******Checking Response Time*******
+2020-04-16 12:41:11,166 INFO  - Response Time is:1120
+2020-04-16 12:41:11,174 INFO  - *******Checking status code*******
+2020-04-16 12:41:11,174 INFO  - Status Code is:200
+2020-04-16 12:41:11,177 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 12:49:34,129 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 12:49:37,977 INFO  - *******Checking content encoding Header*******
+2020-04-16 12:49:37,978 INFO  - content-encoding is:gzip
+2020-04-16 12:49:37,993 INFO  - *******Checking Content Length header*******
+2020-04-16 12:49:37,994 INFO  - Content length is:595
+2020-04-16 12:49:37,998 INFO  - *******Checking content type Header*******
+2020-04-16 12:49:38,002 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 12:49:38,019 INFO  - *******Checking Response Body*******
+2020-04-16 12:49:38,090 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 12:49:38,112 INFO  - *******Checking Response Time*******
+2020-04-16 12:49:38,113 INFO  - Response Time is:1674
+2020-04-16 12:49:38,140 INFO  - *******Checking server type Header*******
+2020-04-16 12:49:38,140 INFO  - server is:nginx/1.16.0
+2020-04-16 12:49:38,160 INFO  - *******Checking status code*******
+2020-04-16 12:49:38,161 INFO  - Status Code is:200
+2020-04-16 12:49:38,171 INFO  - *******Checking status Line*******
+2020-04-16 12:49:38,173 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 12:49:38,189 INFO  - *******Checking Cookies*******
+2020-04-16 12:49:38,191 INFO  - Cookie is:null
+2020-04-16 12:49:38,217 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 12:49:38,234 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 12:49:42,174 INFO  - *******Checking Response Body*******
+2020-04-16 12:49:42,175 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 12:49:42,183 INFO  - *******Checking Response Time*******
+2020-04-16 12:49:42,183 INFO  - Response Time is:885
+2020-04-16 12:49:42,186 INFO  - *******Checking status code*******
+2020-04-16 12:49:42,187 INFO  - Status Code is:400
+2020-04-16 12:49:42,190 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 12:49:42,194 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 12:49:46,090 INFO  - *******Checking Response Body*******
+2020-04-16 12:49:46,091 INFO  - Response body is:{"status":"success","data":{"name":"PPANa","salary":"78427","age":"91","id":31}}
+2020-04-16 12:49:46,093 INFO  - *******Checking Response Time*******
+2020-04-16 12:49:46,094 INFO  - Response Time is:877
+2020-04-16 12:49:46,097 INFO  - *******Checking status code*******
+2020-04-16 12:49:46,097 INFO  - Status Code is:200
+2020-04-16 12:49:46,099 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 12:49:46,105 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 12:49:49,954 INFO  - *******Checking Response Body*******
+2020-04-16 12:49:49,956 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 12:49:49,963 INFO  - *******Checking Response Time*******
+2020-04-16 12:49:49,964 INFO  - Response Time is:834
+2020-04-16 12:49:49,970 INFO  - *******Checking status code*******
+2020-04-16 12:49:49,971 INFO  - Status Code is:200
+2020-04-16 12:49:49,976 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 12:49:49,982 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 12:49:51,778 INFO  - Employee to be deleted:21
+2020-04-16 12:49:55,655 INFO  - *******Checking Response Body*******
+2020-04-16 12:49:55,656 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 12:49:55,662 INFO  - *******Checking Response Time*******
+2020-04-16 12:49:55,664 INFO  - Response Time is:835
+2020-04-16 12:49:55,672 INFO  - *******Checking status code*******
+2020-04-16 12:49:55,673 INFO  - Status Code is:200
+2020-04-16 12:49:55,680 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 13:24:22,629 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 13:24:32,226 INFO  - *******Checking content encoding Header*******
+2020-04-16 13:24:32,227 INFO  - content-encoding is:gzip
+2020-04-16 13:24:32,287 INFO  - *******Checking Content Length header*******
+2020-04-16 13:24:32,288 INFO  - Content length is:595
+2020-04-16 13:24:32,292 INFO  - *******Checking content type Header*******
+2020-04-16 13:24:32,293 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 13:24:32,301 INFO  - *******Checking Response Body*******
+2020-04-16 13:24:32,358 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 13:24:32,367 INFO  - *******Checking Response Time*******
+2020-04-16 13:24:32,369 INFO  - Response Time is:2130
+2020-04-16 13:24:32,369 WARN  - response time is greater than 2000 milli seconds.
+2020-04-16 13:24:32,392 INFO  - *******Checking server type Header*******
+2020-04-16 13:24:32,396 INFO  - server is:nginx/1.16.0
+2020-04-16 13:24:32,414 INFO  - *******Checking status code*******
+2020-04-16 13:24:32,416 INFO  - Status Code is:200
+2020-04-16 13:24:32,420 INFO  - *******Checking status Line*******
+2020-04-16 13:24:32,421 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 13:24:32,425 INFO  - *******Checking Cookies*******
+2020-04-16 13:24:32,431 INFO  - Cookie is:null
+2020-04-16 13:24:32,441 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 13:24:32,459 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 13:24:36,429 INFO  - *******Checking Response Body*******
+2020-04-16 13:24:36,431 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 13:24:36,438 INFO  - *******Checking Response Time*******
+2020-04-16 13:24:36,438 INFO  - Response Time is:953
+2020-04-16 13:24:36,441 INFO  - *******Checking status code*******
+2020-04-16 13:24:36,442 INFO  - Status Code is:400
+2020-04-16 13:24:36,445 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 13:24:36,449 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 13:24:40,357 INFO  - *******Checking Response Body*******
+2020-04-16 13:24:40,358 INFO  - Response body is:{"status":"success","data":{"name":"PPGtB","salary":"48928","age":"37","id":48}}
+2020-04-16 13:24:40,362 INFO  - *******Checking Response Time*******
+2020-04-16 13:24:40,362 INFO  - Response Time is:880
+2020-04-16 13:24:40,370 INFO  - *******Checking status code*******
+2020-04-16 13:24:40,372 INFO  - Status Code is:200
+2020-04-16 13:24:40,378 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 13:24:40,382 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 13:24:44,268 INFO  - *******Checking Response Body*******
+2020-04-16 13:24:44,269 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 13:24:44,272 INFO  - *******Checking Response Time*******
+2020-04-16 13:24:44,272 INFO  - Response Time is:875
+2020-04-16 13:24:44,274 INFO  - *******Checking status code*******
+2020-04-16 13:24:44,276 INFO  - Status Code is:200
+2020-04-16 13:24:44,284 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 13:24:44,292 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 13:24:46,674 INFO  - Employee to be deleted:21
+2020-04-16 13:24:50,593 INFO  - *******Checking Response Body*******
+2020-04-16 13:24:50,594 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 13:24:50,603 INFO  - *******Checking Response Time*******
+2020-04-16 13:24:50,604 INFO  - Response Time is:874
+2020-04-16 13:24:50,611 INFO  - *******Checking status code*******
+2020-04-16 13:24:50,613 INFO  - Status Code is:200
+2020-04-16 13:24:50,615 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 14:51:58,149 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 14:52:07,271 INFO  - *******Checking content encoding Header*******
+2020-04-16 14:52:07,272 INFO  - content-encoding is:gzip
+2020-04-16 14:52:07,291 INFO  - *******Checking Content Length header*******
+2020-04-16 14:52:07,291 INFO  - Content length is:595
+2020-04-16 14:52:07,293 INFO  - *******Checking content type Header*******
+2020-04-16 14:52:07,293 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 14:52:07,295 INFO  - *******Checking Response Body*******
+2020-04-16 14:52:07,336 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 14:52:07,343 INFO  - *******Checking Response Time*******
+2020-04-16 14:52:07,345 INFO  - Response Time is:1965
+2020-04-16 14:52:07,347 INFO  - *******Checking server type Header*******
+2020-04-16 14:52:07,348 INFO  - server is:nginx/1.16.0
+2020-04-16 14:52:07,350 INFO  - *******Checking status code*******
+2020-04-16 14:52:07,351 INFO  - Status Code is:200
+2020-04-16 14:52:07,352 INFO  - *******Checking status Line*******
+2020-04-16 14:52:07,353 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 14:52:07,355 INFO  - *******Checking Cookies*******
+2020-04-16 14:52:07,357 INFO  - Cookie is:null
+2020-04-16 14:52:07,360 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 14:52:07,387 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 14:52:11,238 INFO  - *******Checking Response Body*******
+2020-04-16 14:52:11,239 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 14:52:11,253 INFO  - *******Checking Response Time*******
+2020-04-16 14:52:11,253 INFO  - Response Time is:834
+2020-04-16 14:52:11,256 INFO  - *******Checking status code*******
+2020-04-16 14:52:11,256 INFO  - Status Code is:400
+2020-04-16 14:52:11,258 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 14:52:11,261 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 14:52:15,145 INFO  - *******Checking Response Body*******
+2020-04-16 14:52:15,146 INFO  - Response body is:{"status":"success","data":{"name":"PPobY","salary":"46316","age":"91","id":98}}
+2020-04-16 14:52:15,148 INFO  - *******Checking Response Time*******
+2020-04-16 14:52:15,148 INFO  - Response Time is:869
+2020-04-16 14:52:15,150 INFO  - *******Checking status code*******
+2020-04-16 14:52:15,151 INFO  - Status Code is:200
+2020-04-16 14:52:15,156 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 14:52:15,160 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 14:52:19,024 INFO  - *******Checking Response Body*******
+2020-04-16 14:52:19,025 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 14:52:19,026 INFO  - *******Checking Response Time*******
+2020-04-16 14:52:19,027 INFO  - Response Time is:848
+2020-04-16 14:52:19,028 INFO  - *******Checking status code*******
+2020-04-16 14:52:19,029 INFO  - Status Code is:200
+2020-04-16 14:52:19,030 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 14:52:19,032 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 14:52:20,841 INFO  - Employee to be deleted:21
+2020-04-16 14:52:24,897 INFO  - *******Checking Response Body*******
+2020-04-16 14:52:24,898 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 14:52:24,900 INFO  - *******Checking Response Time*******
+2020-04-16 14:52:24,900 INFO  - Response Time is:1034
+2020-04-16 14:52:24,901 INFO  - *******Checking status code*******
+2020-04-16 14:52:24,902 INFO  - Status Code is:200
+2020-04-16 14:52:24,903 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 14:53:25,765 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 14:53:34,025 INFO  - *******Checking content encoding Header*******
+2020-04-16 14:53:34,026 INFO  - content-encoding is:gzip
+2020-04-16 14:53:34,047 INFO  - *******Checking Content Length header*******
+2020-04-16 14:53:34,047 INFO  - Content length is:595
+2020-04-16 14:53:34,051 INFO  - *******Checking content type Header*******
+2020-04-16 14:53:34,051 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 14:53:34,059 INFO  - *******Checking Response Body*******
+2020-04-16 14:53:34,101 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 14:53:34,108 INFO  - *******Checking Response Time*******
+2020-04-16 14:53:34,108 INFO  - Response Time is:1423
+2020-04-16 14:53:34,113 INFO  - *******Checking server type Header*******
+2020-04-16 14:53:34,113 INFO  - server is:nginx/1.16.0
+2020-04-16 14:53:34,117 INFO  - *******Checking status code*******
+2020-04-16 14:53:34,117 INFO  - Status Code is:200
+2020-04-16 14:53:34,124 INFO  - *******Checking status Line*******
+2020-04-16 14:53:34,125 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 14:53:34,130 INFO  - *******Checking Cookies*******
+2020-04-16 14:53:34,132 INFO  - Cookie is:null
+2020-04-16 14:53:34,155 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 14:53:34,163 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 14:53:38,175 INFO  - *******Checking Response Body*******
+2020-04-16 14:53:38,176 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 14:53:38,182 INFO  - *******Checking Response Time*******
+2020-04-16 14:53:38,183 INFO  - Response Time is:1000
+2020-04-16 14:53:38,188 INFO  - *******Checking status code*******
+2020-04-16 14:53:38,188 INFO  - Status Code is:400
+2020-04-16 14:53:38,195 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 14:53:38,203 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 14:53:42,424 INFO  - *******Checking Response Body*******
+2020-04-16 14:53:42,425 INFO  - Response body is:{"status":"success","data":{"name":"PPTye","salary":"87157","age":"41","id":38}}
+2020-04-16 14:53:42,433 INFO  - *******Checking Response Time*******
+2020-04-16 14:53:42,433 INFO  - Response Time is:1186
+2020-04-16 14:53:42,436 INFO  - *******Checking status code*******
+2020-04-16 14:53:42,437 INFO  - Status Code is:200
+2020-04-16 14:53:42,439 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 14:53:42,444 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 14:53:46,268 INFO  - *******Checking Response Body*******
+2020-04-16 14:53:46,269 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 14:53:46,273 INFO  - *******Checking Response Time*******
+2020-04-16 14:53:46,274 INFO  - Response Time is:812
+2020-04-16 14:53:46,278 INFO  - *******Checking status code*******
+2020-04-16 14:53:46,278 INFO  - Status Code is:200
+2020-04-16 14:53:46,283 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 14:53:46,290 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 14:53:47,959 INFO  - Employee to be deleted:21
+2020-04-16 14:53:51,816 INFO  - *******Checking Response Body*******
+2020-04-16 14:53:51,817 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 14:53:51,821 INFO  - *******Checking Response Time*******
+2020-04-16 14:53:51,821 INFO  - Response Time is:826
+2020-04-16 14:53:51,828 INFO  - *******Checking status code*******
+2020-04-16 14:53:51,829 INFO  - Status Code is:200
+2020-04-16 14:53:51,846 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 14:55:58,023 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 14:56:07,310 INFO  - *******Checking content encoding Header*******
+2020-04-16 14:56:07,311 INFO  - content-encoding is:gzip
+2020-04-16 14:56:07,331 INFO  - *******Checking Content Length header*******
+2020-04-16 14:56:07,332 INFO  - Content length is:595
+2020-04-16 14:56:07,340 INFO  - *******Checking content type Header*******
+2020-04-16 14:56:07,341 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 14:56:07,347 INFO  - *******Checking Response Body*******
+2020-04-16 14:56:07,385 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 14:56:07,389 INFO  - *******Checking Response Time*******
+2020-04-16 14:56:07,389 INFO  - Response Time is:1631
+2020-04-16 14:56:07,392 INFO  - *******Checking server type Header*******
+2020-04-16 14:56:07,393 INFO  - server is:nginx/1.16.0
+2020-04-16 14:56:07,402 INFO  - *******Checking status code*******
+2020-04-16 14:56:07,403 INFO  - Status Code is:200
+2020-04-16 14:56:07,407 INFO  - *******Checking status Line*******
+2020-04-16 14:56:07,407 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 14:56:07,412 INFO  - *******Checking Cookies*******
+2020-04-16 14:56:07,413 INFO  - Cookie is:null
+2020-04-16 14:56:07,417 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 14:56:07,424 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 14:56:11,637 INFO  - *******Checking Response Body*******
+2020-04-16 14:56:11,638 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 14:56:11,651 INFO  - *******Checking Response Time*******
+2020-04-16 14:56:11,652 INFO  - Response Time is:1200
+2020-04-16 14:56:11,656 INFO  - *******Checking status code*******
+2020-04-16 14:56:11,657 INFO  - Status Code is:400
+2020-04-16 14:56:11,663 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 14:56:11,672 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 14:56:15,691 INFO  - *******Checking Response Body*******
+2020-04-16 14:56:15,692 INFO  - Response body is:{"status":"success","data":{"name":"PPkHM","salary":"47092","age":"75","id":58}}
+2020-04-16 14:56:15,700 INFO  - *******Checking Response Time*******
+2020-04-16 14:56:15,701 INFO  - Response Time is:999
+2020-04-16 14:56:15,705 INFO  - *******Checking status code*******
+2020-04-16 14:56:15,706 INFO  - Status Code is:200
+2020-04-16 14:56:15,708 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 14:56:15,714 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 14:56:19,634 INFO  - *******Checking Response Body*******
+2020-04-16 14:56:19,635 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 14:56:19,642 INFO  - *******Checking Response Time*******
+2020-04-16 14:56:19,643 INFO  - Response Time is:904
+2020-04-16 14:56:19,650 INFO  - *******Checking status code*******
+2020-04-16 14:56:19,650 INFO  - Status Code is:200
+2020-04-16 14:56:19,653 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 14:56:19,658 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 14:56:21,281 INFO  - Employee to be deleted:21
+2020-04-16 14:56:25,336 INFO  - *******Checking Response Body*******
+2020-04-16 14:56:25,337 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 14:56:25,340 INFO  - *******Checking Response Time*******
+2020-04-16 14:56:25,341 INFO  - Response Time is:1020
+2020-04-16 14:56:25,344 INFO  - *******Checking status code*******
+2020-04-16 14:56:25,345 INFO  - Status Code is:200
+2020-04-16 14:56:25,352 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 15:00:52,109 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 15:01:00,802 INFO  - *******Checking content encoding Header*******
+2020-04-16 15:01:00,803 INFO  - content-encoding is:gzip
+2020-04-16 15:01:00,825 INFO  - *******Checking Content Length header*******
+2020-04-16 15:01:00,826 INFO  - Content length is:595
+2020-04-16 15:01:00,831 INFO  - *******Checking content type Header*******
+2020-04-16 15:01:00,832 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 15:01:00,839 INFO  - *******Checking Response Body*******
+2020-04-16 15:01:00,875 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 15:01:00,881 INFO  - *******Checking Response Time*******
+2020-04-16 15:01:00,882 INFO  - Response Time is:1838
+2020-04-16 15:01:00,886 INFO  - *******Checking server type Header*******
+2020-04-16 15:01:00,886 INFO  - server is:nginx/1.16.0
+2020-04-16 15:01:00,897 INFO  - *******Checking status code*******
+2020-04-16 15:01:00,897 INFO  - Status Code is:200
+2020-04-16 15:01:00,902 INFO  - *******Checking status Line*******
+2020-04-16 15:01:00,902 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 15:01:00,908 INFO  - *******Checking Cookies*******
+2020-04-16 15:01:00,910 INFO  - Cookie is:null
+2020-04-16 15:01:00,919 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 15:01:00,932 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 15:01:05,161 INFO  - *******Checking Response Body*******
+2020-04-16 15:01:05,162 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 15:01:05,169 INFO  - *******Checking Response Time*******
+2020-04-16 15:01:05,169 INFO  - Response Time is:1212
+2020-04-16 15:01:05,172 INFO  - *******Checking status code*******
+2020-04-16 15:01:05,176 INFO  - Status Code is:400
+2020-04-16 15:01:05,180 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 15:01:05,183 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 15:01:10,832 INFO  - *******Checking Response Body*******
+2020-04-16 15:01:10,833 INFO  - Response body is:{"status":"success","data":{"name":"PPLUL","salary":"43379","age":"38","id":55}}
+2020-04-16 15:01:10,837 INFO  - *******Checking Response Time*******
+2020-04-16 15:01:10,838 INFO  - Response Time is:2632
+2020-04-16 15:01:10,841 INFO  - *******Checking status code*******
+2020-04-16 15:01:10,842 INFO  - Status Code is:200
+2020-04-16 15:01:10,845 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 15:01:10,848 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 15:01:14,807 INFO  - *******Checking Response Body*******
+2020-04-16 15:01:14,808 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 15:01:14,816 INFO  - *******Checking Response Time*******
+2020-04-16 15:01:14,817 INFO  - Response Time is:942
+2020-04-16 15:01:14,822 INFO  - *******Checking status code*******
+2020-04-16 15:01:14,823 INFO  - Status Code is:200
+2020-04-16 15:01:14,826 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 15:01:14,831 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 15:01:16,548 INFO  - Employee to be deleted:21
+2020-04-16 15:01:20,431 INFO  - *******Checking Response Body*******
+2020-04-16 15:01:20,432 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 15:01:20,442 INFO  - *******Checking Response Time*******
+2020-04-16 15:01:20,445 INFO  - Response Time is:844
+2020-04-16 15:01:20,463 INFO  - *******Checking status code*******
+2020-04-16 15:01:20,464 INFO  - Status Code is:200
+2020-04-16 15:01:20,470 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 15:04:22,426 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 15:04:30,173 INFO  - *******Checking Response Body*******
+2020-04-16 15:04:30,220 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 15:04:30,265 INFO  - *******Checking Response Time*******
+2020-04-16 15:04:30,265 INFO  - Response Time is:2610
+2020-04-16 15:04:30,265 WARN  - response time is greater than 2000 milli seconds.
+2020-04-16 15:04:30,272 INFO  - *******Checking status code*******
+2020-04-16 15:04:30,273 INFO  - Status Code is:400
+2020-04-16 15:04:30,282 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 15:04:30,288 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 15:04:32,838 INFO  - Employee to be deleted:21
+2020-04-16 15:04:36,845 INFO  - *******Checking Response Body*******
+2020-04-16 15:04:36,846 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 15:04:36,859 INFO  - *******Checking Response Time*******
+2020-04-16 15:04:36,860 INFO  - Response Time is:895
+2020-04-16 15:04:36,866 INFO  - *******Checking status code*******
+2020-04-16 15:04:36,869 INFO  - Status Code is:200
+2020-04-16 15:04:36,875 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 15:26:15,058 INFO  - *******Started TC005-Delete single Employee*******
+2020-04-16 15:26:20,644 INFO  - Employee to be deleted:21
+2020-04-16 15:26:24,586 INFO  - *******Checking Response Body*******
+2020-04-16 15:26:24,587 INFO  - Response body is:{"status":"failed","message":"Error! Not able to delete record"}
+2020-04-16 15:26:24,604 INFO  - ***********Finished TC005-Delete single employee details execution**********
+2020-04-16 15:26:24,608 INFO  - *******Started TC02-Get Single Employee details*******
+2020-04-16 15:26:28,598 INFO  - *******Checking Response Time*******
+2020-04-16 15:26:28,599 INFO  - Response Time is:980
+2020-04-16 15:26:28,604 INFO  - *******Checking status code*******
+2020-04-16 15:26:28,604 INFO  - Status Code is:400
+2020-04-16 15:26:28,613 INFO  - *******Checking Response Body*******
+2020-04-16 15:26:28,614 INFO  - Response body is:{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-04-16 15:26:28,619 INFO  - ***********Finished TC002-Get Single Employee details execution**********
+2020-04-16 15:32:24,685 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 15:32:33,329 INFO  - *******Checking content encoding Header*******
+2020-04-16 15:32:33,331 INFO  - content-encoding is:gzip
+2020-04-16 15:32:33,352 INFO  - *******Checking Content Length header*******
+2020-04-16 15:32:33,353 INFO  - Content length is:595
+2020-04-16 15:32:33,361 INFO  - *******Checking content type Header*******
+2020-04-16 15:32:33,362 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 15:32:33,368 INFO  - *******Checking Response Body*******
+2020-04-16 15:32:33,402 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 15:32:33,408 INFO  - *******Checking Response Time*******
+2020-04-16 15:32:33,409 INFO  - Response Time is:1630
+2020-04-16 15:32:33,423 INFO  - *******Checking server type Header*******
+2020-04-16 15:32:33,424 INFO  - server is:nginx/1.16.0
+2020-04-16 15:32:33,437 INFO  - *******Checking status code*******
+2020-04-16 15:32:33,438 INFO  - Status Code is:200
+2020-04-16 15:32:33,448 INFO  - *******Checking status Line*******
+2020-04-16 15:32:33,449 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 15:32:33,455 INFO  - *******Checking Cookies*******
+2020-04-16 15:32:33,458 INFO  - Cookie is:null
+2020-04-16 15:32:33,467 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 15:32:33,471 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 15:32:37,358 INFO  - *******Checking Response Body*******
+2020-04-16 15:32:37,359 INFO  - Response body is:{"status":"success","data":{"name":"PPODa","salary":"08485","age":"98","id":98}}
+2020-04-16 15:32:37,365 INFO  - *******Checking Response Time*******
+2020-04-16 15:32:37,365 INFO  - Response Time is:867
+2020-04-16 15:32:37,384 INFO  - *******Checking status code*******
+2020-04-16 15:32:37,384 INFO  - Status Code is:200
+2020-04-16 15:32:37,387 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 15:32:37,390 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 15:32:41,297 INFO  - *******Checking Response Body*******
+2020-04-16 15:32:41,298 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 15:32:41,301 INFO  - *******Checking Response Time*******
+2020-04-16 15:32:41,302 INFO  - Response Time is:893
+2020-04-16 15:32:41,305 INFO  - *******Checking status code*******
+2020-04-16 15:32:41,306 INFO  - Status Code is:200
+2020-04-16 15:32:41,308 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 15:33:01,176 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 15:33:09,573 INFO  - *******Checking content encoding Header*******
+2020-04-16 15:33:09,575 INFO  - content-encoding is:gzip
+2020-04-16 15:33:09,592 INFO  - *******Checking Content Length header*******
+2020-04-16 15:33:09,592 INFO  - Content length is:595
+2020-04-16 15:33:09,595 INFO  - *******Checking content type Header*******
+2020-04-16 15:33:09,595 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 15:33:09,602 INFO  - *******Checking Response Body*******
+2020-04-16 15:33:09,645 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 15:33:09,651 INFO  - *******Checking Response Time*******
+2020-04-16 15:33:09,653 INFO  - Response Time is:1447
+2020-04-16 15:33:09,656 INFO  - *******Checking server type Header*******
+2020-04-16 15:33:09,657 INFO  - server is:nginx/1.16.0
+2020-04-16 15:33:09,659 INFO  - *******Checking status code*******
+2020-04-16 15:33:09,660 INFO  - Status Code is:200
+2020-04-16 15:33:09,662 INFO  - *******Checking status Line*******
+2020-04-16 15:33:09,662 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 15:33:09,664 INFO  - *******Checking Cookies*******
+2020-04-16 15:33:09,667 INFO  - Cookie is:null
+2020-04-16 15:33:09,674 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 15:33:09,683 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 15:33:13,670 INFO  - *******Checking Response Body*******
+2020-04-16 15:33:13,671 INFO  - Response body is:{"status":"success","data":{"name":"PPIDF","salary":"77010","age":"80","id":74}}
+2020-04-16 15:33:13,673 INFO  - *******Checking Response Time*******
+2020-04-16 15:33:13,674 INFO  - Response Time is:959
+2020-04-16 15:33:13,675 INFO  - *******Checking status code*******
+2020-04-16 15:33:13,676 INFO  - Status Code is:200
+2020-04-16 15:33:13,682 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 15:33:13,689 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 15:33:17,590 INFO  - *******Checking Response Body*******
+2020-04-16 15:33:17,591 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 15:33:17,592 INFO  - *******Checking Response Time*******
+2020-04-16 15:33:17,592 INFO  - Response Time is:887
+2020-04-16 15:33:17,594 INFO  - *******Checking status code*******
+2020-04-16 15:33:17,594 INFO  - Status Code is:200
+2020-04-16 15:33:17,595 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 16:19:10,879 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 16:19:19,711 INFO  - *******Checking content encoding Header*******
+2020-04-16 16:19:19,713 INFO  - content-encoding is:gzip
+2020-04-16 16:19:19,738 INFO  - *******Checking Content Length header*******
+2020-04-16 16:19:19,739 INFO  - Content length is:595
+2020-04-16 16:19:19,742 INFO  - *******Checking content type Header*******
+2020-04-16 16:19:19,742 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 16:19:19,749 INFO  - *******Checking Response Body*******
+2020-04-16 16:19:19,824 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 16:19:19,831 INFO  - *******Checking Response Time*******
+2020-04-16 16:19:19,832 INFO  - Response Time is:1759
+2020-04-16 16:19:19,834 INFO  - *******Checking server type Header*******
+2020-04-16 16:19:19,835 INFO  - server is:nginx/1.16.0
+2020-04-16 16:19:19,837 INFO  - *******Checking status code*******
+2020-04-16 16:19:19,837 INFO  - Status Code is:200
+2020-04-16 16:19:19,840 INFO  - *******Checking status Line*******
+2020-04-16 16:19:19,840 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 16:19:19,843 INFO  - *******Checking Cookies*******
+2020-04-16 16:19:19,848 INFO  - Cookie is:null
+2020-04-16 16:19:19,856 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 16:19:19,872 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 16:19:23,825 INFO  - *******Checking Response Body*******
+2020-04-16 16:19:23,826 INFO  - Response body is:{"status":"success","data":{"name":"PPFYh","salary":"06479","age":"82","id":67}}
+2020-04-16 16:19:23,828 INFO  - *******Checking Response Time*******
+2020-04-16 16:19:23,828 INFO  - Response Time is:892
+2020-04-16 16:19:23,830 INFO  - *******Checking status code*******
+2020-04-16 16:19:23,831 INFO  - Status Code is:200
+2020-04-16 16:19:23,833 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 16:19:23,838 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 16:19:27,721 INFO  - *******Checking Response Body*******
+2020-04-16 16:19:27,722 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 16:19:27,724 INFO  - *******Checking Response Time*******
+2020-04-16 16:19:27,725 INFO  - Response Time is:867
+2020-04-16 16:19:27,727 INFO  - *******Checking status code*******
+2020-04-16 16:19:27,727 INFO  - Status Code is:200
+2020-04-16 16:19:27,729 INFO  - ***********Finished TC004-PUT single employee details execution**********
+2020-04-16 16:23:17,681 INFO  - *******Started TC01-Get All Employees*******
+2020-04-16 16:23:26,671 INFO  - *******Checking content encoding Header*******
+2020-04-16 16:23:26,673 INFO  - content-encoding is:gzip
+2020-04-16 16:23:26,694 INFO  - *******Checking Content Length header*******
+2020-04-16 16:23:26,695 INFO  - Content length is:595
+2020-04-16 16:23:26,700 INFO  - *******Checking content type Header*******
+2020-04-16 16:23:26,700 INFO  - ContentType is:application/json;charset=utf-8
+2020-04-16 16:23:26,702 INFO  - *******Checking Response Body*******
+2020-04-16 16:23:26,749 INFO  - Response body is:{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-04-16 16:23:26,753 INFO  - *******Checking Response Time*******
+2020-04-16 16:23:26,755 INFO  - Response Time is:1551
+2020-04-16 16:23:26,758 INFO  - *******Checking server type Header*******
+2020-04-16 16:23:26,758 INFO  - server is:nginx/1.16.0
+2020-04-16 16:23:26,760 INFO  - *******Checking status code*******
+2020-04-16 16:23:26,762 INFO  - Status Code is:200
+2020-04-16 16:23:26,764 INFO  - *******Checking status Line*******
+2020-04-16 16:23:26,765 INFO  - Status Line is:HTTP/1.1 200 OK
+2020-04-16 16:23:26,767 INFO  - *******Checking Cookies*******
+2020-04-16 16:23:26,768 INFO  - Cookie is:null
+2020-04-16 16:23:26,770 INFO  - ***********Finished TC001-Get Employees execution**********
+2020-04-16 16:23:26,777 INFO  - *******Started TC03-Add new Employee*******
+2020-04-16 16:23:30,688 INFO  - *******Checking Response Body*******
+2020-04-16 16:23:30,689 INFO  - Response body is:{"status":"success","data":{"name":"PPUrx","salary":"50686","age":"93","id":26}}
+2020-04-16 16:23:30,692 INFO  - *******Checking Response Time*******
+2020-04-16 16:23:30,692 INFO  - Response Time is:879
+2020-04-16 16:23:30,695 INFO  - *******Checking status code*******
+2020-04-16 16:23:30,697 INFO  - Status Code is:200
+2020-04-16 16:23:30,698 INFO  - ***********Finished TC003-Post add employee execution**********
+2020-04-16 16:23:30,704 INFO  - *******Started TC004-Edit single Employee*******
+2020-04-16 16:23:34,592 INFO  - *******Checking Response Body*******
+2020-04-16 16:23:34,594 INFO  - Response body is:{"status":"success","data":null}
+2020-04-16 16:23:34,596 INFO  - *******Checking Response Time*******
+2020-04-16 16:23:34,596 INFO  - Response Time is:870
+2020-04-16 16:23:34,598 INFO  - *******Checking status code*******
+2020-04-16 16:23:34,598 INFO  - Status Code is:200
+2020-04-16 16:23:34,600 INFO  - ***********Finished TC004-PUT single employee details execution**********

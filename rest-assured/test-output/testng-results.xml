@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestAssuredTestSuite" duration-ms="17065" started-at="2020-04-16T10:02:24Z" finished-at="2020-04-16T10:02:41Z">
+    <groups>
+    </groups>
+    <test name="restAssuredTests" duration-ms="17065" started-at="2020-04-16T10:02:24Z" finished-at="2020-04-16T10:02:41Z">
+      <class name="com.restassured.testcases.TC004_PUT_EditSingleEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.restassured.testcases.TC004_PUT_EditSingleEmployee@4667ae56]" name="setUp" is-config="true" duration-ms="3" started-at="2020-04-16T10:02:37Z" finished-at="2020-04-16T10:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewEmployee()[pri:0, instance:com.restassured.testcases.TC004_PUT_EditSingleEmployee@4667ae56]" name="addNewEmployee" is-config="true" duration-ms="3906" started-at="2020-04-16T10:02:37Z" finished-at="2020-04-16T10:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployee -->
+        <test-method status="PASS" signature="CheckResponseBody()[pri:0, instance:com.restassured.testcases.TC004_PUT_EditSingleEmployee@4667ae56]" name="CheckResponseBody" duration-ms="2" started-at="2020-04-16T10:02:41Z" finished-at="2020-04-16T10:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseBody -->
+        <test-method status="PASS" signature="CheckResponseTime()[pri:0, instance:com.restassured.testcases.TC004_PUT_EditSingleEmployee@4667ae56]" name="CheckResponseTime" duration-ms="2" started-at="2020-04-16T10:02:41Z" finished-at="2020-04-16T10:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseTime -->
+        <test-method status="PASS" signature="CheckStatusCode()[pri:0, instance:com.restassured.testcases.TC004_PUT_EditSingleEmployee@4667ae56]" name="CheckStatusCode" duration-ms="2" started-at="2020-04-16T10:02:41Z" finished-at="2020-04-16T10:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckStatusCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.restassured.testcases.TC004_PUT_EditSingleEmployee@4667ae56]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-04-16T10:02:41Z" finished-at="2020-04-16T10:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restassured.testcases.TC004_PUT_EditSingleEmployee -->
+      <class name="com.restassured.testcases.TC001_GET_AllEmployees">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="setUp" is-config="true" duration-ms="55" started-at="2020-04-16T10:02:24Z" finished-at="2020-04-16T10:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getEmployees()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="getEmployees" is-config="true" duration-ms="8610" started-at="2020-04-16T10:02:24Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployees -->
+        <test-method status="PASS" signature="CheckContentEncoding()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckContentEncoding" duration-ms="20" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContentEncoding -->
+        <test-method status="PASS" signature="CheckContentLength()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckContentLength" duration-ms="3" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContentLength -->
+        <test-method status="PASS" signature="CheckContentType()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckContentType" duration-ms="5" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContentType -->
+        <test-method status="PASS" signature="CheckResponseBody()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckResponseBody" duration-ms="37" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseBody -->
+        <test-method status="PASS" signature="CheckResponseTime()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckResponseTime" duration-ms="4" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseTime -->
+        <test-method status="PASS" signature="CheckServer()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckServer" duration-ms="9" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckServer -->
+        <test-method status="PASS" signature="CheckStatusCode()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckStatusCode" duration-ms="3" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckStatusCode -->
+        <test-method status="PASS" signature="CheckStatusLine()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="CheckStatusLine" duration-ms="5" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckStatusLine -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="getCookies" duration-ms="7" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.restassured.testcases.TC001_GET_AllEmployees@548e7350]" name="tearDown" is-config="true" duration-ms="5" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restassured.testcases.TC001_GET_AllEmployees -->
+      <class name="com.restassured.testcases.TC003_POST_AddEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.restassured.testcases.TC003_POST_AddEmployee@1a968a59]" name="setUp" is-config="true" duration-ms="3" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewEmployee()[pri:0, instance:com.restassured.testcases.TC003_POST_AddEmployee@1a968a59]" name="addNewEmployee" is-config="true" duration-ms="3886" started-at="2020-04-16T10:02:33Z" finished-at="2020-04-16T10:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployee -->
+        <test-method status="PASS" signature="CheckResponseBody()[pri:0, instance:com.restassured.testcases.TC003_POST_AddEmployee@1a968a59]" name="CheckResponseBody" duration-ms="3" started-at="2020-04-16T10:02:37Z" finished-at="2020-04-16T10:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseBody -->
+        <test-method status="PASS" signature="CheckResponseTime()[pri:0, instance:com.restassured.testcases.TC003_POST_AddEmployee@1a968a59]" name="CheckResponseTime" duration-ms="4" started-at="2020-04-16T10:02:37Z" finished-at="2020-04-16T10:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseTime -->
+        <test-method status="PASS" signature="CheckStatusCode()[pri:0, instance:com.restassured.testcases.TC003_POST_AddEmployee@1a968a59]" name="CheckStatusCode" duration-ms="3" started-at="2020-04-16T10:02:37Z" finished-at="2020-04-16T10:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckStatusCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.restassured.testcases.TC003_POST_AddEmployee@1a968a59]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-04-16T10:02:37Z" finished-at="2020-04-16T10:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restassured.testcases.TC003_POST_AddEmployee -->
+    </test> <!-- restAssuredTests -->
+  </suite> <!-- RestAssuredTestSuite -->
+</testng-results>

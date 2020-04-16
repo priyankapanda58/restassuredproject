@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [RestAssuredTestSuite]]" parallel="tests">
+  <listeners>
+    <listener class-name="com.restassured.utilities.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="restAssuredTests(failed)(failed)" parallel="tests">
+    <classes>
+      <class name="com.restassured.testcases.TC002_GET_SingleEmployee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="CheckStatusCode"/>
+          <include name="getSingleEmployee"/>
+          <include name="CheckResponseBody"/>
+        </methods>
+      </class> <!-- com.restassured.testcases.TC002_GET_SingleEmployee -->
+      <class name="com.restassured.testcases.TC005_DELETE_Employee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="addNewEmployee"/>
+          <include name="CheckResponseBody"/>
+        </methods>
+      </class> <!-- com.restassured.testcases.TC005_DELETE_Employee -->
+    </classes>
+  </test> <!-- restAssuredTests(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [RestAssuredTestSuite]] -->
